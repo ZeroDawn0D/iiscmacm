@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://iisc.acm.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://iisc.acm.org/" rel="alternate" type="text/html" /><updated>2023-03-07T12:03:25+05:30</updated><id>https://iisc.acm.org/feed.xml</id><title type="html">IISc ACM Student Chapter</title><subtitle>Website of IISc ACM Student Chapter</subtitle><entry><title type="html">Invited talk by Dr. Balakrishnan Srinivasan, Senior System Software Engineer, Compiler Team NVIDIA, Bangalore</title><link href="https://iisc.acm.org/balakrishnan-srinivasan/" rel="alternate" type="text/html" title="Invited talk by Dr. Balakrishnan Srinivasan, Senior System Software Engineer, Compiler Team NVIDIA, Bangalore" /><published>2022-11-24T00:00:00+05:30</published><updated>2022-11-24T00:00:00+05:30</updated><id>https://iisc.acm.org/balakrishnan-srinivasan</id><content type="html" xml:base="https://iisc.acm.org/balakrishnan-srinivasan/">&lt;!-- Start Blog  Area --&gt;
+&lt;section class=&quot;blog-area bg-color1&quot;&gt;
+      &lt;div class=&quot;blog-wrapper bminus-30&quot;&gt;
+         &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+               &lt;div class=&quot;col-md-12 col-lg-12&quot;&gt;
+                  &lt;div class=&quot;single-post&quot;&gt;
+   
+   &lt;div class=&quot;single-content&quot;&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Invited talk by &lt;b&gt; Dr. Balakrishnan Srinivasan&lt;/b&gt;, Senior System Software engineer, Compiler Team 
+                 NVIDIA, Bangalore &lt;/p&gt;
+
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt; Doing your life's work&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;
+The rapid evolution of technologies within and outside a company deeply affect the choice of work we intend to do as our life's work. As a case study, in this talk, I will give a high-level overview of technologies developed in NVIDIA, and the backdrop in which these technologies evolved. Further, I will give a bird’s eye view of the implications of the dynamic settings in the current day workplace to doing our life's work.
+&lt;/p&gt;
+
+&lt;h6&gt;Biography&lt;/h6&gt;
+&lt;p&gt;
+Balakrishnan Srinivasan got his Ph.D in 2000 from the Supercomputer Education and Research Center, IISc. From 2001 to 2005, he worked as a senior scientist at the Philips Research Laboratories, The Netherlands, where he primarily worked on vector processing architectures for 3G baseband receivers. From 2005 to 2010 he worked as a principal scientist researching on healthcare applications and later as department head at the Philips Research labs in Bangalore. From 2010-2013 he worked at Morphing Machines as a Principal Researcher attempting to bring new technologies to the market. He has been with NVIDIA since April 2013 as a senior software engineer working in the compiler team that generates code for the GPU.
+&lt;/p&gt;
+
+&lt;h6&gt;Date and Time&lt;/h6&gt;
+
+&lt;p&gt;24-Nov-2022 (Thursday) 3PM to 4PM&lt;/p&gt;
+
+&lt;h6&gt;Venue&lt;/h6&gt;
+
+&lt;p&gt;
+CSA Seminar Hall, Room No. 254
+&lt;/p&gt;
+
+&lt;p&gt;
+All are welcome. High Tea will be served at 4:00 PM.
+&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;</content><author><name></name></author><category term="event" /><category term="talks" /><summary type="html"></summary></entry><entry><title type="html">Invited talk by Dr. Monojit Choudhury, Turing Lab, MSR, India</title><link href="https://iisc.acm.org/monojit-choudhury/" rel="alternate" type="text/html" title="Invited talk by Dr. Monojit Choudhury, Turing Lab, MSR, India" /><published>2022-11-18T00:00:00+05:30</published><updated>2022-11-18T00:00:00+05:30</updated><id>https://iisc.acm.org/monojit-choudhury</id><content type="html" xml:base="https://iisc.acm.org/monojit-choudhury/">&lt;section class=&quot;blog-area bg-color1&quot;&gt;
+      &lt;div class=&quot;blog-wrapper bminus-30&quot;&gt;
+         &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+               &lt;div class=&quot;col-md-12 col-lg-12&quot;&gt;
+                  &lt;div class=&quot;single-post&quot;&gt;
+                    &lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-9&quot; style=&quot;margin: auto&quot;&gt;
+                &lt;div class=&quot;post-carousel owl-carousel&quot;&gt;
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/monojit-choudhury/1.jpg&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/monojit-choudhury/2.jpg&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+   
+   &lt;div class=&quot;single-content&quot;&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Invited talk by &lt;b&gt;Dr. Monojit Choudhury &lt;/b&gt;, Microsoft Research Lab, India &lt;/p&gt;
+
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt; Predicting and Explaining Cross-lingual Zero-shot and Few-shot Transfer&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;
+Given a massively multilingual language models (MMLM), can we predict the accuracy of cross-lingual zero-shot and few-shot transfer for a task on target languages with little or no test data? This seemingly impossible task, if solved, can have several potential benefits. First, we could estimate the performance of a model even in languages where a test set is not available, and/or building one is difficult. Second, one can predict training data configurations that would give certain desired performance across a set of languages, and accordingly strategize data collection plans; this in turn can lead to linguistically fair MMLM-based models. Third, as a by-product, we would know which factors influence cross-lingual transfer. In this talk, I will give an overview of Project LITMUS – Linguistically Informed Training and Testing of Multilingual Systems, where we build several ML models for performance prediction; besides their applications, I will discuss what we learn about the factors that influence cross-lingual transfer. 
+&lt;/p&gt;
+
+&lt;h6&gt;Biography&lt;/h6&gt;
+&lt;p&gt;
+https://www.microsoft.com/en-us/research/people/monojitc/
+&lt;/p&gt;
+
+&lt;h6&gt;Date and Time&lt;/h6&gt;
+
+&lt;p&gt;18-Nov-2022 (Friday) 3PM to 4PM&lt;/p&gt;
+
+&lt;h6&gt;Venue&lt;/h6&gt;
+
+&lt;p&gt;
+CDS Seminar Hall, Room No. 102
+&lt;/p&gt;
+
+&lt;p&gt;
+All are welcome. High Tea will be served at 4:00 PM.
+&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;</content><author><name></name></author><category term="event" /><category term="talks" /><summary type="html"></summary></entry><entry><title type="html">Competitive Coding bootcamp with Arjun Arul</title><link href="https://iisc.acm.org/coding-bootcamp/" rel="alternate" type="text/html" title="Competitive Coding bootcamp with Arjun Arul" /><published>2022-09-17T00:00:00+05:30</published><updated>2022-09-17T00:00:00+05:30</updated><id>https://iisc.acm.org/coding-bootcamp</id><content type="html" xml:base="https://iisc.acm.org/coding-bootcamp/">&lt;section class=&quot;blog-area bg-color1&quot;&gt;
+      &lt;div class=&quot;blog-wrapper bminus-30&quot;&gt;
+         &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+               &lt;div class=&quot;col-md-12 col-lg-12&quot;&gt;
+                  &lt;div class=&quot;single-post&quot;&gt;
+   
+   &lt;div class=&quot;single-content&quot;&gt;
+      &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Chapter will host an competitive coding bootcamp, with &lt;b&gt;Mr. Arjun Arul&lt;/b&gt; (codechef, unacademy, 2-time ACM ICPC coding contest world finalist), being the speaker.
+&lt;/p&gt;
+
+&lt;p&gt;The event will be held on &lt;b&gt;(17th, 18th, 24th, ad 25th of September)&lt;/b&gt; between &lt;b&gt;11:00 AM - 5:00PM&lt;/b&gt; in &lt;b&gt;254 CSA seminar hall&lt;/b&gt;.&lt;/p&gt;
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt;Competitive coding with Mr. Arjun Arul | Codechef, unacademy, 2-time ACM ICPC coding contest world finalist.&lt;/p&gt;
+
+&lt;h6&gt;Registration&lt;/h6&gt;
+
+&lt;p&gt;
+Apply for the program &lt;a href=&quot;https://forms.office.com/Pages/ResponsePage.aspx?id=l80Vb6f240Gyxa1Bk5dkdpO3l_pIMDNLq5oBxB1XtfpUNDA3TUVDNkNNSEZGUU83WThOOFI3TUpNSS4u&quot;&gt; here &lt;/a&gt;.
+Limited seats (60).
+&lt;/p&gt;
+
+&lt;p&gt;
+Shortlisted candidates will be sent an e-mail of the to pay the registration fee.
+&lt;/p&gt;
+
+&lt;h6&gt;Fee&lt;/h6&gt;
+&lt;p&gt;
+Rs. 200 for IISc ACM student chapter members.
+&lt;/p&gt;
+
+&lt;p&gt;
+Rs. 500 for non-chapter members.    
+&lt;/p&gt;
+
+&lt;h6&gt;Deadline&lt;/h6&gt;
+
+&lt;p&gt;10-Sep-2022 11:59PM IST&lt;/p&gt;
+
+&lt;h6&gt;Bio&lt;/h6&gt;
+
+&lt;p&gt;
+&lt;a href=&quot;https://unacademy.com/@arjunarul&quot;&gt; Arjun Arul &lt;/a&gt; has completed his M.Sc. in Computer Science from Chennai Mathematical Institute, and has been a ACM ICPC world finalist from India twice.
+
+&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;</content><author><name></name></author><category term="event" /><category term="talks" /><summary type="html"></summary></entry><entry><title type="html">ACM India Eminent Speaker program - Prof. R Ramanujam</title><link href="https://iisc.acm.org/ramanujam/" rel="alternate" type="text/html" title="ACM India Eminent Speaker program - Prof. R Ramanujam" /><published>2022-06-17T00:00:00+05:30</published><updated>2022-06-17T00:00:00+05:30</updated><id>https://iisc.acm.org/ramanujam</id><content type="html" xml:base="https://iisc.acm.org/ramanujam/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Invited talk by &lt;b&gt; Prof. R. Ramanujam &lt;/b&gt;, Professor,  Institute of Mathematical Sciences, Chennai &lt;/p&gt;
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt; Why should we learn logic, and why should we learn logic?&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;
+Computer science curricula do not usually advertise the fact that computers, programming and models of computation all arose from trying to answer fundamental questions in logic. But is it only a matter of historical pride? Could learning logic actually be useful for those who actually do things (and not just theorize)? Even if that is true, should it not be sufficient for a few to write formulas and such, while most of us build &quot;apps&quot;? These are reasonable questions for a computer science student to ask, and the talk is an attempt to engage in a discussion with her.
+&lt;/p&gt;
+
+&lt;h6&gt;Biography&lt;/h6&gt;
+&lt;p&gt;
+R. Ramanujam got his BE (Hons) in Electrical and Electronics Engineering from BITS Pilani and his PhD in Computer Science from Tata Institute of Fundamental Research, Mumbai. After postdoctoral research at the City University of New York, he has been at the Institute of Mathematical Sciences, Chennai where he is currently Professor.
+
+His research interests are in mathematical logic and theory of computation, and their applications to theory of distributed systems, game theory and security theory. He is currently on the editorial board of ACM Transactions on Computational Logic. In 2010, he was Lorentz Fellow of the Royal Netherlands Academy of Sciences at the Netherlands Institute for Advanced Studies. He has been actively involved in the Indian Association for Research in Computing Science and the Associaton for Logic in India.
+
+Ramanujam has been associated with the Tamil Nadu Science Forum since 1990, active in its involvement in science popularization and school education. He is editor of Thulir, a monthly science magazine for children. He was a member of the Yash Pal Committee that formulated the National Curriculum Framework 2005, and chaired the National Focus Group on Teaching of Mathematics, NCERT. Currently he is Vice President of the Mathematics Teachers Association of India, and a member of the Core Committee of CS Pathshala, an ACM India initiative.
+&lt;/p&gt;
+
+&lt;h6&gt;Date and Time&lt;/h6&gt;
+
+&lt;p&gt;17-Jun-2022 (Thursday) 3PM to 4PM&lt;/p&gt;
+
+&lt;h6&gt;Venue&lt;/h6&gt;
+
+&lt;p&gt;
+CSA Seminar Hall, Room No. 254
+&lt;/p&gt;
+
+&lt;h6&gt;Link for the recorded talk&lt;/h6&gt;
+&lt;p&gt;
+https://www.youtube.com/watch?v=y1sBoqn08OI
+&lt;/p&gt;
+
+&lt;p&gt;
+All are welcome. High Tea will be served at 4:00 PM.
+&lt;/p&gt;</content><author><name></name></author><category term="event" /><category term="talks" /><summary type="html"></summary></entry><entry><title type="html">Student Interaction with Jay Yagnik | VP and Engineering Fellow @ Google</title><link href="https://iisc.acm.org/studinter-jayyagnik/" rel="alternate" type="text/html" title="Student Interaction with Jay Yagnik | VP and Engineering Fellow @ Google" /><published>2019-12-04T10:30:00+05:30</published><updated>2019-12-04T10:30:00+05:30</updated><id>https://iisc.acm.org/studinter-jayyagnik</id><content type="html" xml:base="https://iisc.acm.org/studinter-jayyagnik/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Chapter will host an an open ended discussion between &lt;b&gt;Jay Yagnik&lt;/b&gt;, a distinguished IISc alumnus, and students. Students can quiz him about his time at IISc to his exploits at Google and everything in between.
+&lt;/p&gt;
+
+&lt;p&gt;The event will be held on &lt;b&gt;04th December 2019&lt;/b&gt; between &lt;b&gt;10:30 AM - 11:30 AM&lt;/b&gt; in &lt;b&gt;SERC Auditorium&lt;/b&gt;.&lt;/p&gt;
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt;Student Interaction with Jay Yagnik | VP and Engineering Fellow @ Google.&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;
+TBD
+&lt;/p&gt;
+
+&lt;p&gt;
+All are welcome.
+&lt;/p&gt;
+
+&lt;h6&gt;Bio&lt;/h6&gt;
+
+&lt;p&gt;
+Jay Yagnik is currently a Vice President and Engineering Fellow at Google, leading large parts of Google AI. While at Google he has led many foundational research efforts in machine learning and perception, computer vision, video understanding, privacy preserving machine learning, quantum AI, applied sciences, and more. He also created multiple engineering and product successes for the company, in areas including Google Photos, YouTube, Search, Ads, Android, Maps, and Hardware. Jay’s research interests span the fields of deep learning, reinforcement learning, scalable matching, graph information propagation, image representation and recognition, temporal information mining, and sparse networks.
+
+
+Jay is an alumnus of the Indian Institute of Science and the Institute of Technology, Nirma University for graduate and undergraduate studies.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+Keep watching this space for more info. Apply for Activity Co-ordinator &lt;a href=&quot;/pages/team#open-positions&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;</content><author><name></name></author><category term="event" /><category term="talks" /><summary type="html"></summary></entry><entry><title type="html">Invited Talk - Director, Google Research India</title><link href="https://iisc.acm.org/invitedtalk-manishgupta/" rel="alternate" type="text/html" title="Invited Talk -  Director, Google Research India" /><published>2019-10-23T17:00:00+05:30</published><updated>2019-10-23T17:00:00+05:30</updated><id>https://iisc.acm.org/invitedtalk-manishgupta</id><content type="html" xml:base="https://iisc.acm.org/invitedtalk-manishgupta/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Chapter will host an invited talk by &lt;b&gt;Dr. Manish Gupta&lt;/b&gt;, Director of Google Research India &amp;amp; &lt;b&gt;Prof. Milind Tambe&lt;/b&gt;, Director &quot;AI for Social Good&quot; at Google Research India to be held on &lt;b&gt;23rd October 2019&lt;/b&gt; at &lt;b&gt;5:00 PM&lt;/b&gt; in &lt;b&gt;CDS - 102 Seminar Hall&lt;/b&gt;. 
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt;Invited Talk - Director, Google Research India&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;
+Google, at the fifth edition of its annual Google for India, event announced that it is setting up a research lab focused on artifical intelligence (AI) and its applications in India. The company's AI lab -- Google Research India -- is based in Bengaluru and it will be jointly led by Dr Manish Gupta and Prof. Milind Tambe.
+Dr Gupta and Prof Tambe will be visiting IISc on Wednesday, October 23 5:00PM - 6:00PM to deliver a talk about the newly formed Google Research India and their intitiatives around applying AI to tackle big problems in areas like healthcare, agriculture, and education. 
+&lt;/p&gt;
+
+&lt;p&gt;
+All are welcome. High Tea will be served at 6:00 PM.
+&lt;/p&gt;
+
+
+&lt;h6&gt;Bio&lt;/h6&gt;
+
+&lt;p&gt;
+Dr. Manish Gupta is the Director of Google Research India Lab, and the Infosys Foundation Chair Professor at IIIT Bangalore. Previously, Manish has co-founded VideoKen, a video technology startup, and has served as Vice President and Director of Xerox Research Centre India. In the past, he has held various leadership positions with IBM, including that of Director, IBM Research - India and Chief Technologist, IBM India/South Asia. Manish holds a Ph.D. in Computer Science from the University of Illinois at Urbana Champaign. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Prof. Milind Tambe is Gordon McKay Professor of Computer Science and Director of Center for Research in Computation and Society (CRCS) at Harvard University; concurrently, he is also Director &quot;AI for Social Good&quot; at Google Research India. Prof. Tambe's research focuses on advancing AI and multiagent systems research for Social Good. Prof. Tambe received his Ph.D. from the School of Computer Science at Carnegie Mellon University.
+&lt;/p&gt;
+
+&lt;p&gt;
+Keep watching this space for more info. Apply for Activity Co-ordinator &lt;a href=&quot;/pages/team#open-positions&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;     
+
+
+
+&lt;/p&gt;</content><author><name></name></author><category term="event" /><category term="talks" /><summary type="html"></summary></entry><entry><title type="html">Inaugural Event</title><link href="https://iisc.acm.org/inaugural-event-(copy)/" rel="alternate" type="text/html" title="Inaugural Event" /><published>2019-06-13T16:00:00+05:30</published><updated>2019-06-13T16:00:00+05:30</updated><id>https://iisc.acm.org/inaugural-event%20(copy)</id><content type="html" xml:base="https://iisc.acm.org/inaugural-event-(copy)/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-9&quot; style=&quot;margin: auto&quot;&gt;
+                &lt;div class=&quot;post-carousel owl-carousel&quot;&gt;
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/1.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/2.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/3.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/4.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/5.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/6.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/7.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/8.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Chapter held it's inaugural event on &lt;b&gt;13th June 2019&lt;/b&gt;. We are excited to announce that &lt;b&gt;Dr. Gargi B. Dasgupta&lt;/b&gt;  featured as the chief guest for this event. &lt;/p&gt;
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt;Cognitive Technical Support&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;Scientists are working on using cognitive technologies for creating an improved technical support experience. Technical support is a hard task and companies offering support often face criticism. This is because (a) the domain is vast and complex given the number of different types and configurations of technical products that exist in the market today and (b) often times technical support services are scripted and follow a pattern without contextualizing the problem or the user.&lt;/p&gt;
+
+&lt;p&gt;Smarter tech support operations can be created by incorporating analytics and cognitive technologies into solutions that can learn what is important, contextually, and take the right actions on behalf of the user – sometimes before the user even realizes an issue has occurred.  The right set of actions is very important for creating the support experience. Often times automated technologies have shallow understanding of the customer’s intent and may ask you to perform the same set of actions without understanding the skill of the customer (i.e. if she has already tried some of these things) or if she has been there before with the same complaint.&lt;/p&gt;
+
+&lt;p&gt;We at IBM Research are working on how to design the workplace of the future while embracing emerging new cognitive and analytic capabilities that are built using machine learning, natural language processing, semantic ontologies and knowledge modeling techniques.&lt;/p&gt;
+
+&lt;h4 class=&quot;heading-4&quot;&gt;Bio&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;Dr. Gargi B. Dasgupta&lt;/b&gt; is the Director of IBM Research India and the CTO of IBM India and South Asia. In her current role, she is responsible for leading and contributing to innovations in the area of IT operational analytics - with an emphasis on cognitive solutions for optimization of IT infrastructure. Her work is aligned to IBM’s services business for ensuring high quality of work and productivity while being operationally efficient, as well as with IBM Middleware and Cloud. Her work has led to numerous patent disclosures and publications in premier journals and conferences, while influencing key IBM products and services. She joined IBM in August 2004 after receiving her Ph.D. in Computer Science from the University of Maryland Baltimore County. Her thesis addressed efficient resource management techniques in IP networks. Her broader technical interests cover distributed systems, and Quality-of-Service aspects in large-scale distributed systems - with specific contributions to power and energy efficient data center management and cloud computing infrastructures. As a researcher, she continues to collaborate with leading academic institutions as well as the IBM worldwide labs. She is also serving as the IRL co-chair for Service Science and is the Diversity leader at IBM Research India dedicated to promoting women in STEM.&lt;/p&gt;
+
+&lt;h6&gt;Summary&lt;/h6&gt;
+
+&lt;ul class=&quot;blog-list list-inline&quot;&gt;
+    &lt;li&gt;Significant contributions in the areas of service delivery analytics and datacenter infrastructure optimization. &lt;/li&gt;
+    &lt;li&gt;Advising graduate students, and serving on organizing/program committees of internationally reputed conferences. &lt;/li&gt;
+    &lt;li&gt;50+ quality publications in top conferences and journals and patents filed/granted with US Patent Office. &lt;/li&gt;
+    &lt;li&gt;Professionally active in academic collaborations, technology researcher, team lead and mentor. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; 
+&lt;a href=&quot;https://speakers.acm.org/speakers/dasgupta_7743&quot;&gt;ACM&lt;/a&gt; and &lt;a href=&quot;https://researcher.watson.ibm.com/researcher/view.php?person=in-GaargiDasgupta&quot;&gt;IBM &lt;/a&gt; links about the chief guest.
+&lt;/p&gt;
+
+&lt;p&gt;
+Keep watching this space for more info. Apply for Activity Co-ordinator &lt;a href=&quot;/pages/team#open-positions&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;</content><author><name></name></author><category term="event" /><category term="inaugural" /><summary type="html"></summary></entry><entry><title type="html">Inaugural Event</title><link href="https://iisc.acm.org/inaugural-event/" rel="alternate" type="text/html" title="Inaugural Event" /><published>2019-06-13T16:00:00+05:30</published><updated>2019-06-13T16:00:00+05:30</updated><id>https://iisc.acm.org/inaugural-event</id><content type="html" xml:base="https://iisc.acm.org/inaugural-event/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-9&quot; style=&quot;margin: auto&quot;&gt;
+                &lt;div class=&quot;post-carousel owl-carousel&quot;&gt;
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/1.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/2.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/3.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/4.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/5.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/6.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/7.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                               
+                            &lt;div class=&quot;slider-content wow fadeIn&quot; data-wow-duration=&quot;3s&quot;&gt;
+                                &lt;img src=&quot;/assets/acm-inaugural-event/8.JPG&quot; alt=&quot;image&quot; /&gt;                             
+                            &lt;/div&gt;
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Chapter held it's inaugural event on &lt;b&gt;13th June 2019&lt;/b&gt;. We are excited to announce that &lt;b&gt;Dr. Gargi B. Dasgupta&lt;/b&gt;  featured as the chief guest for this event. &lt;/p&gt;
+
+&lt;h6&gt;Title&lt;/h6&gt;
+
+&lt;p&gt;Cognitive Technical Support&lt;/p&gt;
+
+&lt;h6&gt;Abstract&lt;/h6&gt;
+
+&lt;p&gt;Scientists are working on using cognitive technologies for creating an improved technical support experience. Technical support is a hard task and companies offering support often face criticism. This is because (a) the domain is vast and complex given the number of different types and configurations of technical products that exist in the market today and (b) often times technical support services are scripted and follow a pattern without contextualizing the problem or the user.&lt;/p&gt;
+
+&lt;p&gt;Smarter tech support operations can be created by incorporating analytics and cognitive technologies into solutions that can learn what is important, contextually, and take the right actions on behalf of the user – sometimes before the user even realizes an issue has occurred.  The right set of actions is very important for creating the support experience. Often times automated technologies have shallow understanding of the customer’s intent and may ask you to perform the same set of actions without understanding the skill of the customer (i.e. if she has already tried some of these things) or if she has been there before with the same complaint.&lt;/p&gt;
+
+&lt;p&gt;We at IBM Research are working on how to design the workplace of the future while embracing emerging new cognitive and analytic capabilities that are built using machine learning, natural language processing, semantic ontologies and knowledge modeling techniques.&lt;/p&gt;
+
+&lt;h4 class=&quot;heading-4&quot;&gt;Bio&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;Dr. Gargi B. Dasgupta&lt;/b&gt; is the Director of IBM Research India and the CTO of IBM India and South Asia. In her current role, she is responsible for leading and contributing to innovations in the area of IT operational analytics - with an emphasis on cognitive solutions for optimization of IT infrastructure. Her work is aligned to IBM’s services business for ensuring high quality of work and productivity while being operationally efficient, as well as with IBM Middleware and Cloud. Her work has led to numerous patent disclosures and publications in premier journals and conferences, while influencing key IBM products and services. She joined IBM in August 2004 after receiving her Ph.D. in Computer Science from the University of Maryland Baltimore County. Her thesis addressed efficient resource management techniques in IP networks. Her broader technical interests cover distributed systems, and Quality-of-Service aspects in large-scale distributed systems - with specific contributions to power and energy efficient data center management and cloud computing infrastructures. As a researcher, she continues to collaborate with leading academic institutions as well as the IBM worldwide labs. She is also serving as the IRL co-chair for Service Science and is the Diversity leader at IBM Research India dedicated to promoting women in STEM.&lt;/p&gt;
+
+&lt;h6&gt;Summary&lt;/h6&gt;
+
+&lt;ul class=&quot;blog-list list-inline&quot;&gt;
+    &lt;li&gt;Significant contributions in the areas of service delivery analytics and datacenter infrastructure optimization. &lt;/li&gt;
+    &lt;li&gt;Advising graduate students, and serving on organizing/program committees of internationally reputed conferences. &lt;/li&gt;
+    &lt;li&gt;50+ quality publications in top conferences and journals and patents filed/granted with US Patent Office. &lt;/li&gt;
+    &lt;li&gt;Professionally active in academic collaborations, technology researcher, team lead and mentor. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; 
+&lt;a href=&quot;https://speakers.acm.org/speakers/dasgupta_7743&quot;&gt;ACM&lt;/a&gt; and &lt;a href=&quot;https://researcher.watson.ibm.com/researcher/view.php?person=in-GaargiDasgupta&quot;&gt;IBM &lt;/a&gt; links about the chief guest.
+&lt;/p&gt;
+
+&lt;p&gt;
+Keep watching this space for more info. Apply for Activity Co-ordinator &lt;a href=&quot;/pages/team#open-positions&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;</content><author><name></name></author><category term="event" /><category term="inaugural" /><summary type="html"></summary></entry></feed>

@@ -1,0 +1,67 @@
+[
+  
+    {
+      "title"    : "Invited talk by Dr. Balakrishnan Srinivasan, Senior System Software Engineer, Compiler Team NVIDIA, Bangalore",
+      "category" : "",
+      "tags"     : "event, talks",
+      "url"      : "/balakrishnan-srinivasan/",
+      "date"     : "2022-11-24 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Invited talk by Dr. Monojit Choudhury, Turing Lab, MSR, India",
+      "category" : "",
+      "tags"     : "event, talks",
+      "url"      : "/monojit-choudhury/",
+      "date"     : "2022-11-18 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Competitive Coding bootcamp with Arjun Arul",
+      "category" : "",
+      "tags"     : "event, talks",
+      "url"      : "/coding-bootcamp/",
+      "date"     : "2022-09-17 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "ACM India Eminent Speaker program - Prof. R Ramanujam",
+      "category" : "",
+      "tags"     : "event, talks",
+      "url"      : "/ramanujam/",
+      "date"     : "2022-06-17 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Student Interaction with Jay Yagnik | VP and Engineering Fellow @ Google",
+      "category" : "",
+      "tags"     : "event, talks",
+      "url"      : "/studinter-jayyagnik/",
+      "date"     : "2019-12-04 10:30:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Invited Talk -  Director, Google Research India",
+      "category" : "",
+      "tags"     : "event, talks",
+      "url"      : "/invitedtalk-manishgupta/",
+      "date"     : "2019-10-23 17:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Inaugural Event",
+      "category" : "",
+      "tags"     : "event, inaugural",
+      "url"      : "/inaugural-event/",
+      "date"     : "2019-06-13 16:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Inaugural Event",
+      "category" : "",
+      "tags"     : "event, inaugural",
+      "url"      : "/inaugural-event-(copy)/",
+      "date"     : "2019-06-13 16:00:00 +0530"
+    } 
+  
+]
